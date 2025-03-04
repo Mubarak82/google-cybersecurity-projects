@@ -53,7 +53,7 @@ Each project folder contains:
 
 ## 🤝 Connect with Me
 Interested in my work? Feel free to connect:
-- **GitHub**: https://www.github.com/in/Mubarak82
+- **GitHub**: https://github.com/Mubarak82
 - **LinkedIn**: https://www.linkedin.com/in/mubarak-abdallah-550bb5304
 
 This repository showcases my cybersecurity skills, practical knowledge, and commitment to securing digital environments. 🚀
